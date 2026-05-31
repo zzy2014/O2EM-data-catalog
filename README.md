@@ -1,50 +1,50 @@
-# Awesome Battery Molecular & Materials Datasets
+# Battery Dataset Catalog
 
 A curated catalog of publicly available datasets for battery-related molecular and materials research, including organic small molecules, molecular crystals, electrolyte mixtures, and polymers.
 
-This repository is designed to support **academic research, benchmarking, and reproducible machine learning studies** in energy storage science.
+This repository is designed for **academic reference, benchmarking, and dataset discovery** in energy storage research.
 
 ---
 
-# 📌 1. Scope of This Repository
+# 📌 1. Scope
 
-This repository indexes datasets used in:
+This repository indexes publicly available datasets relevant to:
 
-- Molecular property prediction
-- Electrolyte design
-- Solid-state ion conduction
 - Battery materials discovery
+- Electrolyte design
+- Molecular property prediction
+- Solid-state ion transport
 - Data-driven energy storage modeling
 
-It does NOT host datasets directly, but provides structured references to original sources.
+It does NOT host datasets, only provides structured links to original sources.
 
 ---
 
 # 📚 2. Dataset Categories
 
-Datasets are organized by **material class**, consistent with chemical and physical modeling workflows.
+Datasets are organized by **material type**, reflecting chemical and physical modeling workflows.
 
 ---
 
 ## 2.1 Organic Small Molecules
 
-Small molecules used in electrolytes, redox mediators, and organic battery materials.
+Small organic molecules used in electrolytes, redox species, and organic electrode materials.
 
-| Dataset | Representation | Source | Size | Reported Properties | Reference |
-|--------|----------------|--------|------|---------------------|----------|
-| Dataset A | SMILES / 3D conformers | DFT + literature mining | 1.2M | HOMO/LUMO, redox potential, solvation energy | [Paper](#) |
-| Dataset B | SMILES | High-throughput DFT | 500K | stability, dipole moment, polarizability | [Paper](#) |
+| Dataset | Source | Size | Key Properties | Link |
+|--------|--------|------|----------------|------|
+| Dataset A | DFT + literature mining | 1.2M | HOMO/LUMO, redox potential, solvation energy | [Link](#) |
+| Dataset B | High-throughput DFT | 500K | stability, dipole moment, polarizability | [Link](#) |
 
 ---
 
 ## 2.2 Molecular Crystals
 
-Crystalline materials for solid-state electrolytes and electrodes.
+Crystalline materials for solid-state electrolytes and electrode systems.
 
-| Dataset | Representation | Source | Size | Reported Properties | Reference |
-|--------|----------------|--------|------|---------------------|----------|
-| Dataset A | CIF | X-ray + DFT refinement | 100K | lattice energy, band gap, density | [Paper](#) |
-| Dataset B | CIF / predicted structures | Crystal structure prediction (CSP) | 50K | stability, packing efficiency | [Paper](#) |
+| Dataset | Source | Size | Key Properties | Link |
+|--------|--------|------|----------------|------|
+| Dataset A | X-ray + DFT refinement | 100K | lattice energy, band gap, density | [Link](#) |
+| Dataset B | Crystal structure prediction (CSP) | 50K | stability, packing efficiency | [Link](#) |
 
 ---
 
@@ -52,10 +52,10 @@ Crystalline materials for solid-state electrolytes and electrodes.
 
 Liquid electrolyte systems including solvents, salts, and additives.
 
-| Dataset | Representation | Source | Size | Reported Properties | Reference |
-|--------|----------------|--------|------|---------------------|----------|
-| Dataset A | Molecular mixtures | Molecular dynamics simulation | 10K systems | ionic conductivity, viscosity, diffusion coefficient | [Paper](#) |
-| Dataset B | Composition vectors | Experiment + data augmentation | 5K | transference number, stability window | [Paper](#) |
+| Dataset | Source | Size | Key Properties | Link |
+|--------|--------|------|----------------|------|
+| Dataset A | Molecular dynamics simulation | 10K systems | ionic conductivity, viscosity, diffusion coefficient | [Link](#) |
+| Dataset B | Experiment + augmentation | 5K | transference number, stability window | [Link](#) |
 
 ---
 
@@ -63,9 +63,9 @@ Liquid electrolyte systems including solvents, salts, and additives.
 
 Polymer electrolytes and ion-conducting materials.
 
-| Dataset | Representation | Source | Size | Reported Properties | Reference |
-|--------|----------------|--------|------|---------------------|----------|
-| Dataset A | Polymer graphs / SMILES | MD + experiments | 20K | ionic conductivity, Tg, modulus | [Paper](#) |
-| Dataset B | Repeating unit graphs | High-throughput screening | 8K | dielectric constant, ion mobility | [Paper](#) |
+| Dataset | Source | Size | Key Properties | Link |
+|--------|--------|------|----------------|------|
+| Dataset A | MD + experiments | 20K | ionic conductivity, Tg, modulus | [Link](#) |
+| Dataset B | High-throughput screening | 8K | dielectric constant, ion mobility | [Link](#) |
 
 ---
