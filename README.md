@@ -53,6 +53,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | JCESR |--| B3LYP/6-31+G* | 25K | EA, IP | [Link](https://next-gen.materialsproject.org/jcesr) |
 | MPcules |--| ωB97M-V/def2-TZVPPD | 577K | EA, IP, E₀| [Link](https://next-gen.materialsproject.org/molecules) |
 | ConGen |--| B3LYP/6-31+G* | 62K | EA, IP | [Link](https://github.com/jpmailoa/ConGen_Dataset) |
+| OMEAD |--| B3LYP/6–31G(d) | 26K | HOMO, LUMO, EA, IP, E₀ | [Link](https://gitlab.com/rpcarvalho/anima) |
 | Gutmann |--| Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | MNSOL |--| Exp | 2K | ΔG(sol) | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
 | -- |--| Exp | > 4K | viscosity | [Link](https://link.springer.com/article/10.1186/s13321-024-00820-5) |
