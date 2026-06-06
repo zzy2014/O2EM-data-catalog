@@ -89,7 +89,7 @@ Liquid electrolyte systems including solvents, salts, and additives.
 |:------------|:---|:---------|:-|:----------|:-|
 | NUAA-COND |H,Li,C,N,O,<br>F,P,S| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
 | ByteDance-COND |--| Exp | 10K | COND | [Link](https://huggingface.co/ByteDance-Seed/bamboo_mixer) |
-| CALiSol-23 |--| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
+| CALiSol-23 |H,Li,C,N,O,<br>F,P,S| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
 
 ---
 
