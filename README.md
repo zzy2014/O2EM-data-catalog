@@ -80,7 +80,7 @@ Crystalline materials with properties relevant to ion transport and electrochemi
 |:------------|:------|:---------|:-|:----------|:-|
 | OQMD |--| -- | -- | --- | [Link]() |
 | OMDB-GAP1 |65 elements| PBE | 12K | Eg | [Link](https://omdb.mathub.io/dataset) |
-| JARVIS-DFT |--| PBE+OptB88vdW | >30K | Eg | [Link](https://figshare.com/articles/dataset/jdft_3d-7-7-2018_json/6815699) |
+| JARVIS-DFT |Almost full periodic table| PBE+OptB88vdW | >100K | Eg | [Link](https://figshare.com/articles/dataset/jdft_3d-7-7-2018_json/6815699) |
 
 ---
 
